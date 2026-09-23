@@ -62,7 +62,7 @@ The system is instrumented with:
 
 ## Tabulation
 
-<img width="1359" height="813" alt="image" src="https://github.com/user-attachments/assets/7b0c2dc6-e9e8-4367-a6ca-8159a1d9856f" />
+<img width="1600" height="1310" alt="image" src="https://github.com/user-attachments/assets/eab627e9-49b0-4ccf-8339-53e7790f0961" />
 
 
 
